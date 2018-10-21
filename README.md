@@ -3,6 +3,7 @@
 This repo is contains the codes for the assignments of Algorithms Part I
 
 ### Homework Subjects
+
 * [Programming Assigment 1]: Percolation
 * [Programming Assigment 2]: Randomized Queues and Deques
 * [Programming Assigment 3]: Pattern Recognition (Collinear Points)
